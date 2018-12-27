@@ -1,2 +1,2 @@
 # Orange_pi_one
-just start the kernel of orange pi one
+* just __start__ the kernel of orange pi one
