@@ -4,7 +4,7 @@
 ****
 
 > * __Environment :__ CentOS 7.0 - x64  
-> * __cross-compiler :__ gcc-linaro-4.9.4-2017.01-i686_arm-linux-gnueabihf.tar.xz  
+> * __Cross-compiler :__ gcc-linaro-4.9.4-2017.01-i686_arm-linux-gnueabihf.tar.xz  
 > * __Install 32-bit files :__ yum install glibc.i686
 
 ****
