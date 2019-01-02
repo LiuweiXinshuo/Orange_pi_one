@@ -8,4 +8,4 @@
   #make orangepi_one_defconfig
  
  3. 编译uboot   
-  #make ARCH=arm CROSS_COMPILE=/home/liuwei/arm-linux/bin/arm-linux-gnueabihf-
+  #make ARCH=arm CROSS_COMPILE=/home/toolchain/arm-linux/bin/arm-linux-gnueabihf-
